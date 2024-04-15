@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/Yoursmile.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -351,25 +351,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_trj",
-            "name": "🛫唐人街(墙外)",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "农民",
-            "name": "🥝农民",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
-        },
-        {
             "key": "骚火",
             "name": "💢骚火",
             "type": 3,
@@ -399,7 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/奇优.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/SUB/奇优.json"
         },
         {
             "key": "云播",
@@ -441,42 +422,42 @@
             "key": "drpy_js_虎牙直播",
             "name": "🐯虎牙直播",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/lib/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/虎牙直播.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/虎牙直播.js"
         },
         {
             "key": "drpy_js_斗鱼直播",
             "name": "🐠斗鱼直播",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/lib/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/斗鱼直播.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/斗鱼直播.js"
         },
         {
             "key": "drpy_js_有声小说吧",
             "name": "有声小说吧",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/lib/drpy2.min.js",
             "playerType": "2",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/有声小说吧.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/有声小说吧.js"
         },
         {
             "key": "drpy_js_JRKAN直播",
             "name": "JRKAN直播",
             "type": 3,
-            "api": "./api/drpy.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/lib/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/JRKAN直播.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/js/JRKAN直播.js"
         },
         {
             "key": "短视频",
@@ -529,7 +510,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/Bili.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/Bili.json"
         },
         {
             "key": "相声小品",
@@ -539,7 +520,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/Blixs.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/Blixs.json"
         },
         {
             "key": "戏曲",
@@ -549,7 +530,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/Blixq.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/Blixq.json"
         },
         {
             "key": "少儿",
@@ -559,7 +540,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/少儿教育.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/少儿教育.json"
         },
         {
             "key": "小学",
@@ -569,7 +550,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/小学课堂.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/小学课堂.json"
         },
         {
             "key": "初中",
@@ -579,7 +560,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/初中课堂.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/初中课堂.json"
         },
         {
             "key": "高中",
@@ -589,7 +570,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/高中课堂.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/sub/高中课堂.json"
         }
     ],
     "parses": [
@@ -718,7 +699,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./lives/live.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/live.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
         }
     ],

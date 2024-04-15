@@ -812,15 +812,6 @@
             ]
         },
         {
-            "name": "农民",
-            "hosts": [
-                "toutiaovod.com"
-            ],
-            "regex": [
-                "video/tos/cn"
-            ]
-        },
-        {
             "name": "kk",
             "hosts": [
                 "kuaikan"

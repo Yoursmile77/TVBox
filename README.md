@@ -1,4 +1,4 @@
-#### 此仓库不在更新请用：https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+#### 此仓库不在更新请用：https://github.com/yoursmile66/TVBox/
 
 ### 2下载地址
  - [TVbox开源版](https://wws.lanzouv.com/b03j4ulyh#999)   
